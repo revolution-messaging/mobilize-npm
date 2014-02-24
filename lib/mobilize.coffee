@@ -46,7 +46,7 @@ module.exports = () ->
       return true
     else
       return false
-  inputs = {
+  inputs = (
     'strippedText': null,
     'msisdn': null,
     'mobileText': null,
